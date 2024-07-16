@@ -1,0 +1,69 @@
+HTML
+
+Promgramming language:
+
+frontend tech | client side
+	html , css , js, ....
+backend tech  | server side
+	c,cpp,java,python,....
+
+
+use: to develope web pages:
+website:
+
+HTML supports only static data:
+
+vs code
+
+c: dekstop 
+
+html file : .html
+
+void main(){
+    printf("hello world");
+}
+
+tags:
+<tag> : opening tag
+</tag> : closing tag
+
+<!DOCTYPE html> : declaration
+
+<p>: paragraph
+headings: h1 to h6
+
+<h1>Inner HTML</h1>
+
+2 types of list are there:
+order list     : <ol>
+unordered list : <ul>
+list item      : <li>
+
+
+tags: 
+type attribute:
+
+
+attributes:
+
+style attribute:
+	<p style="color:red;">This is a paragraph.</p>
+
+<table> : to create table
+<thead> : table head
+<tbody> : table body
+<tr>    : table row
+<th>    : table heading
+<td>    : table data	
+
+
+
+
+
+railway time table
+
+train no | train name | source | destination | arrival | departure
+
+
+task:
+create mark sheet of 5 students using table tag.
