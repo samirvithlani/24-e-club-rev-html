@@ -67,3 +67,23 @@ train no | train name | source | destination | arrival | departure
 
 task:
 create mark sheet of 5 students using table tag.
+
+a : tag : anchor tag
+href : attribute: hyperlink reference
+url: uniform resource locator
+target : attribute: _blank, _self, _parent, _top
+
+_blank : open in new tab
+_self  : open in same tab
+_parent: open in parent tab
+_top   : open in top tab
+
+
+image tag:
+img : tag
+src : attribute
+alt : attribute
+width : attribute
+height: attribute
+
+	
