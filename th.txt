@@ -86,4 +86,15 @@ alt : attribute
 width : attribute
 height: attribute
 
+
+video:
+src
+controls
+autoplay
+loop
+muted
+poster
+width
+height
+
 	
