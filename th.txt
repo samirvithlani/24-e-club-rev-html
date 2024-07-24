@@ -97,4 +97,8 @@ poster
 width
 height
 
-	
+tag: --> identifier
+id :  unique identifier
+name : non unique identifier
+class : non unique identifier
+tag	 : non unique identifier
