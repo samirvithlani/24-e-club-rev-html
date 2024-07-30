@@ -102,3 +102,9 @@ id :  unique identifier
 name : non unique identifier
 class : non unique identifier
 tag	 : non unique identifier
+
+
+descriptiv list:
+<dl> : description list
+<dt> : description term
+<dd> : description data
